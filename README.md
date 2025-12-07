@@ -1,9 +1,4 @@
-# 🏎️ F1 Telemetry Dashboard
-
-A modern **React + TypeScript** dashboard for analyzing Formula 1 telemetry data.  
-Inspired by real F1 strategy tools, this project provides interactive charts for lap times, pit stops, and driver performance.
-
-<!--![screenshot](docs/demo.png)  replace with actual screenshot -->
+# F1 Post Race Insights
 
 ---
 
@@ -115,14 +110,6 @@ Example JSON schema (lap times):
 }
 ```
 
-## 📸 Screenshots
--- to be added --
-<!-- Add your own screenshots here:
-Lap time comparison chart
-Sector comparison charts
-Pit stop lost time analysis
-Driver performance cards -->
-
 ## 📝 TODO / Roadmap
 
 - [ ] **Data Handling**
@@ -166,8 +153,4 @@ Driver performance cards -->
 
 Contributions, ideas, and feedback are welcome!
 Fork the repo and submit a pull request, or open an issue.
-
-## 📜 License
-
-MIT License © 2025 BeyzaOzkara
   
